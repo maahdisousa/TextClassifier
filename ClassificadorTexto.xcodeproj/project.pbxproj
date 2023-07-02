@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D81099B2A1254F5009E7CB6 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D81099A2A1254F5009E7CB6 /* SwiftUIView.swift */; };
 		0D8881D22A03F9E2004F2A2F /* ClassificadorTextoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D8881D12A03F9E2004F2A2F /* ClassificadorTextoApp.swift */; };
 		0D8881D42A03F9E2004F2A2F /* TokensView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D8881D32A03F9E2004F2A2F /* TokensView.swift */; };
 		0D8881D62A03F9E3004F2A2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D8881D52A03F9E3004F2A2F /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D81099A2A1254F5009E7CB6 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		0D8881CE2A03F9E2004F2A2F /* ClassificadorTexto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClassificadorTexto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D8881D12A03F9E2004F2A2F /* ClassificadorTextoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassificadorTextoApp.swift; sourceTree = "<group>"; };
 		0D8881D32A03F9E2004F2A2F /* TokensView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokensView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				0D8881D12A03F9E2004F2A2F /* ClassificadorTextoApp.swift */,
 				0D8881D32A03F9E2004F2A2F /* TokensView.swift */,
 				0D8881E12A0BE399004F2A2F /* CategoryView.swift */,
+				0D81099A2A1254F5009E7CB6 /* SwiftUIView.swift */,
 				0D8881D52A03F9E3004F2A2F /* Assets.xcassets */,
 				0D8881D72A03F9E3004F2A2F /* Preview Content */,
 				0D8881DF2A0424BA004F2A2F /* Model.swift */,
@@ -147,6 +150,7 @@
 				0D8881D42A03F9E2004F2A2F /* TokensView.swift in Sources */,
 				0D8881D22A03F9E2004F2A2F /* ClassificadorTextoApp.swift in Sources */,
 				0D8881E22A0BE399004F2A2F /* CategoryView.swift in Sources */,
+				0D81099B2A1254F5009E7CB6 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
